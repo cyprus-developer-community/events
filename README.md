@@ -1,1 +1,1 @@
-# events
+# Cyprus Developer Community Events
