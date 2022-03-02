@@ -1,0 +1,27 @@
+name: GitEvents ICS Generator
+
+on:
+  issues:
+    types: [labeled]
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+      - name: GitEvents ICS Generator
+        uses: gitevents/ics@1.0.0
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          default-timezone: 'Europe/Athens'
+          locations: 'locations.json'
+      - uses: actions/checkout@v3
+      - run: |
+          git config user.name cdc.cy
+          git config user.email ics@cdc.cy
+          git add events.ics
+          git commit -m "chore: update calendar file"
+          git push
