@@ -1,5 +1,9 @@
 [
   {
+    "id": "online",
+    "name": "Online on Discord"
+  },
+  {
     "id": "idea-cy",
     "name": "IDEA Cyprus, Nicosia",
     "city": "Nicosia",
