@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Cyprus Developer Community Support
+  - name: Cyprus Developer Community Website
     url: https://cdc.cy/
-    about: Please ask and answer questions here.
+    about: Everything about Cyprus' Finest Developer Communtiy
+  - name: Cyprus Developer Community Events
+    url: https://cdc.cy/events
+    about: All Developer/Tech/Software Events in Cyprus
+  - name: Cyprus Developer Community Chat
+    url: https://discord.gg/tSDvzqYZ
+    about: Join the conversation on Discord
