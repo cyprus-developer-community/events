@@ -1,0 +1,43 @@
+name: Event
+description: Create a new event
+title: '<title>'
+labels: ['Event :sparkles:']
+body:
+  - type: textarea
+    attributes:
+      label: Event Description
+      description: A concise description
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Date
+      description: Start Date
+      placeholder: 31.03.2022
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Time
+      description: Start time
+      placeholder: 18.30
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Duration
+      description: Duration
+      placeholder: 1h30m
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Code of Conduct
+      description:
+        The Code of Conduct helps create a safe space for everyone. We require
+        that everyone agrees to it.
+      options:
+        - label:
+            I agree to follow this project's [Code of
+            Conduct](https://berlincodeofconduct.org)
+          required: true
