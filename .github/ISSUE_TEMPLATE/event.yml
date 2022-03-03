@@ -1,15 +1,21 @@
 name: Event
 description: Create a new event
-title: '<title>'
+title: 'Event Title'
 labels: ['Event :sparkles:']
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Hey there :wave:. We're using [GitEvents](http://gitevents.org) to manage events based on issues. There's still some work to be done, so please make sure you stick to the formatting of dates for the time being.
   - type: textarea
+    id: description
     attributes:
       label: Event Description
       description: A concise description
     validations:
       required: true
   - type: input
+    id: startDate
     attributes:
       label: Date
       description: Start Date
@@ -17,6 +23,7 @@ body:
     validations:
       required: true
   - type: input
+    id: startTime
     attributes:
       label: Time
       description: Start time
@@ -24,6 +31,7 @@ body:
     validations:
       required: true
   - type: input
+    id: duration
     attributes:
       label: Duration
       description: Duration
@@ -31,6 +39,7 @@ body:
     validations:
       required: true
   - type: checkboxes
+    id: code-of-conduct
     attributes:
       label: Code of Conduct
       description:
