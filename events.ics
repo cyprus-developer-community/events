@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:gitevents/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:wJHdSIadvNx4eSJ6_V27I
+SUMMARY:CDCoffee
+DTSTAMP:20220303T132400Z
+DTSTART:20220310T100000Z
+DESCRIPTION:\nLet's chat about tech\, coding and Cyprus.\n\nhttps://discord
+	.gg/qA7wHjbs?event=948887583507755048
+URL:https://github.com/cyprus-developer-community/events/issues/1
+LOCATION:Online on Discord
+STATUS:CONFIRMED
+CATEGORIES:Event :sparkles:,Approved :white_check_mark:
+ORGANIZER;CN=Patrick Heneise
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+DURATION:PT1H
+END:VEVENT
+END:VCALENDAR
