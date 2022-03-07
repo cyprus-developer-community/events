@@ -15,6 +15,14 @@ body:
     validations:
       required: true
   - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Location ID (locations.json) or String
+      placeholder: 'hugge-paphos'
+    validations:
+      required: true
+  - type: input
     id: startDate
     attributes:
       label: Date
