@@ -1,25 +1,28 @@
-name: GitEvents
+name: GitEvents Inclusive Organization
 
 on:
   push:
-    branches:
-      - main
   pull_request:
+  discussion:
+    types: [created, edited, answered]
+  discussion_comment:
+    types: [created]
+  issue_comment:
+    types: [created]
   issues:
-    types: [opened, edited]
+    types: [opened]
 
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
-          node-version: 12
+          node-version: 16
       - name: gitevents
-        uses: gitevents/action@v1.1.0
+        uses: gitevents/inclusive-org@v1
         with:
-          enable-auto-invite: false
           gitevents-app-id: ${{ secrets.GE_APP_ID }}
           gitevents-app-private-key: ${{ secrets.GE_APP_PRIVATE_KEY }}
           gitevents-app-installation-id: ${{ secrets.GE_APP_INSTALLATION_ID }}
