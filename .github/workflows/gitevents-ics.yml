@@ -19,8 +19,10 @@ jobs:
           locations: 'locations.json'
       - name: update .ics file
         run: |
-          git config user.name cdc.cy
-          git config user.email ics@cdc.cy
-          git add events.ics
-          git commit events.ics -m "daily calendar update"
-          git push
+          if [[ -n "$(git status --porcelain=v1 2>/dev/null)" ]]
+            git config user.name cdc.cy
+            git config user.email ics@cdc.cy
+            git add events.ics
+            git commit events.ics -m "daily calendar update"
+            git push
+          fi
