@@ -1,8 +1,6 @@
 name: GitEvents ICS Generator
 
 on:
-  issues:
-    types: [labeled]
   schedule:
     - cron: '0 0 * * *'
 
@@ -12,13 +10,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
-      - name: parse issue body form
-        uses: zentered/issue-forms-body-parser@v1.0.2
-        id: parse-issue-body
       - name: GitEvents ICS Generator
-        uses: gitevents/ics@v1.1.0
+        uses: gitevents/ics@v1.1.1
         with:
-          parsed-body: ${{ steps.parse-issue-body.outputs.data }}
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           default-timezone: 'Europe/Athens'
           locations: 'locations.json'
