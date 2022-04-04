@@ -1,6 +1,7 @@
 name: GitEvents ICS Generator
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
 
@@ -21,5 +22,5 @@ jobs:
           git config user.name cdc.cy
           git config user.email ics@cdc.cy
           git add events.ics
-          git commit -m "Update calendar file"
+          git commit events.ics -m "daily calendar update"
           git push
