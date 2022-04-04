@@ -20,6 +20,7 @@ jobs:
       - name: update .ics file
         run: |
           if [[ -n "$(git status --porcelain=v1 2>/dev/null)" ]]
+          then
             git config user.name cdc.cy
             git config user.email ics@cdc.cy
             git add events.ics
