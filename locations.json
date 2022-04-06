@@ -22,5 +22,12 @@
     "city": "Limassol",
     "link": "https://g.page/BonoBarAndRestaurant?share",
     "geo": [34.6811418, 33.042411]
+  },
+  {
+    "id": "brewery",
+    "name": "The Brewery",
+    "city": "Larnaka",
+    "link": "https://thebrewerylarnaca.com/",
+    "geo": [34.91374521269892, 33.637798401607384]
   }
 ]
