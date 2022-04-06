@@ -5,9 +5,9 @@ PRODID:gitevents/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:3xv8VR-37E_zgGKcVrLXP
+UID:xa3dGGg4vfUuHPrcMLATA
 SUMMARY:CDC Paphos Meetup\, 29/04\, 18.30h
-DTSTAMP:20220406T164300Z
+DTSTAMP:20220406T181200Z
 DTSTART:20220429T153000Z
 DESCRIPTION:Every last Friday of the month\, the CDC Paphos Chapter meets f
 	or drinks and snacks at Baracas Lounge.\n
@@ -20,9 +20,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:rnszvlIqwi32dZGtVPkbA
+UID:ZHH5DVKvhU56p98_T76cr
 SUMMARY:CDC Organizers Meetup
-DTSTAMP:20220406T164300Z
+DTSTAMP:20220406T181200Z
 DTSTART:20220406T173000Z
 DESCRIPTION:Monthly organizers sync\n
 URL:https://github.com/cyprus-developer-community/events/issues/5
@@ -32,5 +32,19 @@ CATEGORIES:Event :sparkles:,Approved :white_check_mark:
 ORGANIZER;CN=Patrick Heneise
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:UhGegaMkAYJHxvHXILjc-
+SUMMARY:CDC Limassol Meet&Greet Meetup\, 14/04\, 18.30h
+DTSTAMP:20220406T181200Z
+DTSTART:20220414T153000Z
+DESCRIPTION:Start of Meet\\&Greet in Limassol\n
+URL:https://github.com/cyprus-developer-community/events/issues/6
+LOCATION:bono\n
+STATUS:CONFIRMED
+CATEGORIES:Event :sparkles:,Approved :white_check_mark:
+ORGANIZER;CN=Michael サイトー 中村 Bashurov
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+DURATION:PT1H30M
 END:VEVENT
 END:VCALENDAR
