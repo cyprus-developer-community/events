@@ -5,14 +5,14 @@ PRODID:gitevents/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:xa3dGGg4vfUuHPrcMLATA
-SUMMARY:CDC Paphos Meetup\, 29/04\, 18.30h
-DTSTAMP:20220406T181200Z
-DTSTART:20220429T153000Z
-DESCRIPTION:Every last Friday of the month\, the CDC Paphos Chapter meets f
-	or drinks and snacks at Baracas Lounge.\n
+UID:1z5mguv3H6CK4sYqt4VHh
+SUMMARY:CDC Paphos Meet & Greet\, 28/04\, 18.30h
+DTSTAMP:20220409T081300Z
+DTSTART:20220428T153000Z
+DESCRIPTION:Every last Thursday of the month\, the CDC Paphos Chapter meets
+	 for drinks and snacks at Baracas Lounge.
 URL:https://github.com/cyprus-developer-community/events/issues/4
-LOCATION:baracas-lounge\n
+LOCATION:baracas-lounge
 STATUS:CONFIRMED
 CATEGORIES:Event :sparkles:,Approved :white_check_mark:
 ORGANIZER;CN=Patrick Heneise
@@ -20,13 +20,13 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZHH5DVKvhU56p98_T76cr
+UID:TMZhkv25iW10UXCkS4-EQ
 SUMMARY:CDC Organizers Meetup
-DTSTAMP:20220406T181200Z
+DTSTAMP:20220409T081300Z
 DTSTART:20220406T173000Z
-DESCRIPTION:Monthly organizers sync\n
+DESCRIPTION:Monthly organizers sync
 URL:https://github.com/cyprus-developer-community/events/issues/5
-LOCATION:online\n
+LOCATION:online
 STATUS:CONFIRMED
 CATEGORIES:Event :sparkles:,Approved :white_check_mark:
 ORGANIZER;CN=Patrick Heneise
@@ -34,17 +34,48 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:UhGegaMkAYJHxvHXILjc-
+UID:WOoQG_ihQpx6zyTeFIrti
 SUMMARY:CDC Limassol Meet&Greet Meetup\, 14/04\, 18.30h
-DTSTAMP:20220406T181200Z
+DTSTAMP:20220409T081300Z
 DTSTART:20220414T153000Z
-DESCRIPTION:Start of Meet\\&Greet in Limassol\n
+DESCRIPTION:Start of Meet\\&Greet in Limassol
 URL:https://github.com/cyprus-developer-community/events/issues/6
-LOCATION:bono\n
+LOCATION:bono
 STATUS:CONFIRMED
 CATEGORIES:Event :sparkles:,Approved :white_check_mark:
 ORGANIZER;CN=Michael サイトー 中村 Bashurov
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:uBvvYwbpz0lDa2uHDbhPU
+SUMMARY:CDC Organizers Meetup 04/05\, 20.30h
+DTSTAMP:20220409T081300Z
+DTSTART:20220504T173000Z
+DESCRIPTION:Monthly organizers sync
+URL:https://github.com/cyprus-developer-community/events/issues/7
+LOCATION:online
+STATUS:CONFIRMED
+CATEGORIES:Event :sparkles:,Approved :white_check_mark:
+ORGANIZER;CN=michdim
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/PatrickHeneise;
+	CN=Patrick Heneise
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:tWLCoigmHLO3CswvcqpHf
+SUMMARY:CDCoffee April 2022
+DTSTAMP:20220409T081300Z
+DTSTART:20220413T070000Z
+DESCRIPTION:Monthly virtual coffee hour for all Cypriot developers and tech
+	 enthusiasts to meet and chat.
+URL:https://github.com/cyprus-developer-community/events/issues/8
+LOCATION:online
+STATUS:CONFIRMED
+CATEGORIES:Event :sparkles:,Approved :white_check_mark:
+ORGANIZER;CN=Patrick Heneise
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+DURATION:PT1H
 END:VEVENT
 END:VCALENDAR
