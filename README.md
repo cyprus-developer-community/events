@@ -7,6 +7,17 @@
 
 Work in progress. Stay tuned.
 
+## Subscribe
+
+![apple calendar](https://github.com/gitevents/ics/blob/main/assets/apple-calendar.png)
+![google calendar](https://github.com/gitevents/ics/blob/main/assets/google-calendar.png)
+
+In Apple Calendar, just go to "File -> New Calendar Subscription" and enter the
+URL, or to the
+[Google Calendar Subscriptions from URL](https://calendar.google.com/calendar/u/0/r/settings/addbyurl).
+
+`https://calendar.cdc.cy`
+
 ## Code of Conduct
 
 Our goal is to have an awesome, inclusive and safe community meetup where people
