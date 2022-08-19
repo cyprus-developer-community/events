@@ -1,0 +1,31 @@
+name: Create Issue Tweet
+
+on:
+  workflow_call:
+    outputs:
+      tweet: 
+        value: ${{ jobs.create.outputs.tweet }}
+
+jobs:
+  create:
+    runs-on: ubuntu-latest
+    outputs:
+      tweet: ${{ steps.create-tweet.outputs.result }}
+    steps:
+      - name: Create Tweet
+        uses: actions/github-script@v6
+        id: create-tweet
+        with:
+          result-encoding: string
+          script: |
+              const {issue} = context.payload
+              const getAuthor = issue => issue?.user?.login
+              const getIssueLink = issue => issue?.html_url
+              const getTitle = issue => issue?.title
+              const getTweet = (title, author, link) =>
+                `${title} by ${author}. Learn more here: ${link}`
+
+              const issueLink = getIssueLink(issue)
+              const author = getAuthor(issue)
+              const title = getTitle(issue)
+              return getTweet(title, author, issueLink)
