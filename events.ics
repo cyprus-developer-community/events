@@ -5,9 +5,9 @@ PRODID:gitevents/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:r7ba4x3B2G3WGLuth8Tty
+UID:jPlaPYk552G-GD97N-Ugs
 SUMMARY:CDC Paphos Meet & Greet\, 28/04\, 18.30h
-DTSTAMP:20220828T024200Z
+DTSTAMP:20220829T024000Z
 DTSTART:20220428T153000Z
 DESCRIPTION:Every last Thursday of the month\, the CDC Paphos Chapter meets
 	 for drinks and snacks at Baracas Lounge.
@@ -20,9 +20,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:3FWUOIKAIRTWHzosyIiGK
+UID:1GKLevRoJZ-BqityQb__g
 SUMMARY:CDC Organizers Meetup
-DTSTAMP:20220828T024200Z
+DTSTAMP:20220829T024000Z
 DTSTART:20220406T173000Z
 DESCRIPTION:Monthly organizers sync
 URL:https://github.com/cyprus-developer-community/events/issues/5
@@ -34,9 +34,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:lawpjmKVVkhDviAkrXGVW
+UID:fdR4Gr0VFa84YtVjQPZ3Q
 SUMMARY:CDC Limassol Meet&Greet Meetup\, 14/04\, 18.30h
-DTSTAMP:20220828T024200Z
+DTSTAMP:20220829T024000Z
 DTSTART:20220414T153000Z
 DESCRIPTION:Start of Meet\\&Greet in Limassol
 URL:https://github.com/cyprus-developer-community/events/issues/6
@@ -48,9 +48,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZXapzLI98fxlFVW4F1yf-
+UID:TsP7pF91h8mi0zIRlcSfH
 SUMMARY:CDC Organizers Meetup 04/05\, 20.30h
-DTSTAMP:20220828T024200Z
+DTSTAMP:20220829T024000Z
 DTSTART:20220504T173000Z
 DESCRIPTION:Monthly organizers sync
 URL:https://github.com/cyprus-developer-community/events/issues/7
@@ -64,9 +64,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/PatrickHeneise;
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:TZ9Rxjvq5Z77h0FbJnixp
+UID:IJKGncx22eIeA32r3oSe8
 SUMMARY:CDCoffee April 2022
-DTSTAMP:20220828T024200Z
+DTSTAMP:20220829T024000Z
 DTSTART:20220413T070000Z
 DESCRIPTION:Monthly virtual coffee hour for all Cypriot developers and tech
 	 enthusiasts to meet and chat.
@@ -79,9 +79,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:CKaMg2e4rRB0nuxmn6oE7
+UID:Ep871yWnTWwwqdsSfmWSR
 SUMMARY:CDC Larnaka Meet & Greet Meetup
-DTSTAMP:20220828T024200Z
+DTSTAMP:20220829T024000Z
 DTSTART:20220415T153000Z
 DESCRIPTION:Welcome to the CDC - Cyprus Developer Community! Join us for ou
 	r monthly Larnaka meet & greet event. Meet likeminded people\, discuss top
@@ -98,9 +98,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:Txk53nybwFZdNF9znrLVl
+UID:U4IHui3fxsgzdzOSYlMoC
 SUMMARY:CDC Organizers Meetup 07/06\, 20.30h
-DTSTAMP:20220828T024200Z
+DTSTAMP:20220829T024000Z
 DTSTART:20220607T173000Z
 DESCRIPTION:Monthly organizers sync
 URL:https://github.com/cyprus-developer-community/events/issues/10
@@ -112,10 +112,10 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:giFtiCSait49BoyYlzQbL
+UID:0F_9t5C-JQOSxyssgyP3d
 SUMMARY:A practical introduction to Test Driven Development (TDD) by Marios
 	 Georgiou
-DTSTAMP:20220828T024200Z
+DTSTAMP:20220829T024000Z
 DTSTART:20220517T160000Z
 DESCRIPTION:GDG is happy to host Marios Georgiou!\n\nIn this talk\, Marios 
 	will walk us through the steps of creating automated unit tests that run e
@@ -148,9 +148,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:vzwW5T17OsFRPe1lZtCuT
+UID:85zgYAbKTsxPQ_PNKAM3N
 SUMMARY:CDC Meet & Greet - The Brewery Larnaka
-DTSTAMP:20220828T024200Z
+DTSTAMP:20220829T024000Z
 DTSTART:20220520T153000Z
 DESCRIPTION:Welcome to the CDC - Cyprus Developer Community! Join us for ou
 	r monthly Larnaka meet & greet event. Meet likeminded people\, discuss all
