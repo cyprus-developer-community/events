@@ -5,9 +5,9 @@ PRODID:gitevents/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:DYxrcy-Tg6W99XKfrQISt
+UID:InYK5ef9du6cBSsGiSxn2
 SUMMARY:CDC Paphos Meet & Greet\, 28/04\, 18.30h
-DTSTAMP:20220920T024000Z
+DTSTAMP:20220921T025300Z
 DTSTART:20220428T153000Z
 DESCRIPTION:Every last Thursday of the month\, the CDC Paphos Chapter meets
 	 for drinks and snacks at Baracas Lounge.
@@ -20,9 +20,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:q-l81z2b90_R2wVPClFhQ
+UID:hSiAN41GvF0tD0Ul6_iaj
 SUMMARY:CDC Organizers Meetup
-DTSTAMP:20220920T024000Z
+DTSTAMP:20220921T025300Z
 DTSTART:20220406T173000Z
 DESCRIPTION:Monthly organizers sync
 URL:https://github.com/cyprus-developer-community/events/issues/5
@@ -34,9 +34,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:NYIXcO-o04Z57aHfCa3Fa
+UID:8TWeSPGGZOZrUFEx6pTSb
 SUMMARY:CDC Limassol Meet&Greet Meetup\, 14/04\, 18.30h
-DTSTAMP:20220920T024000Z
+DTSTAMP:20220921T025300Z
 DTSTART:20220414T153000Z
 DESCRIPTION:Start of Meet\\&Greet in Limassol
 URL:https://github.com/cyprus-developer-community/events/issues/6
@@ -48,9 +48,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:NvubQH37K0m4kxDizRRWq
+UID:BjdW4YRT4lVhnkklyfYoH
 SUMMARY:CDC Organizers Meetup 04/05\, 20.30h
-DTSTAMP:20220920T024000Z
+DTSTAMP:20220921T025300Z
 DTSTART:20220504T173000Z
 DESCRIPTION:Monthly organizers sync
 URL:https://github.com/cyprus-developer-community/events/issues/7
@@ -64,9 +64,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/PatrickHeneise;
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:rDK-qxL5v3L-8DnhhdJJk
+UID:M2rxYLqtXNwbUoMwobe5M
 SUMMARY:CDCoffee April 2022
-DTSTAMP:20220920T024000Z
+DTSTAMP:20220921T025300Z
 DTSTART:20220413T070000Z
 DESCRIPTION:Monthly virtual coffee hour for all Cypriot developers and tech
 	 enthusiasts to meet and chat.
@@ -79,9 +79,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:2aEHR9VZodGg7mCmDSGf8
+UID:lefi1GVKKPb2qbYBJFAUs
 SUMMARY:CDC Larnaka Meet & Greet Meetup
-DTSTAMP:20220920T024000Z
+DTSTAMP:20220921T025300Z
 DTSTART:20220415T153000Z
 DESCRIPTION:Welcome to the CDC - Cyprus Developer Community! Join us for ou
 	r monthly Larnaka meet & greet event. Meet likeminded people\, discuss top
@@ -98,9 +98,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:Md-VpSuIrx5i77Hu82S5G
+UID:q7A_MHk6Xi1YrDqTrYmNm
 SUMMARY:CDC Organizers Meetup 07/06\, 20.30h
-DTSTAMP:20220920T024000Z
+DTSTAMP:20220921T025300Z
 DTSTART:20220607T173000Z
 DESCRIPTION:Monthly organizers sync
 URL:https://github.com/cyprus-developer-community/events/issues/10
@@ -112,10 +112,10 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:Z8-iRZOdJNhP0iNTzIsu4
+UID:QXurHp9-VfEZ9pkbs_Fav
 SUMMARY:A practical introduction to Test Driven Development (TDD) by Marios
 	 Georgiou
-DTSTAMP:20220920T024000Z
+DTSTAMP:20220921T025300Z
 DTSTART:20220517T160000Z
 DESCRIPTION:GDG is happy to host Marios Georgiou!\n\nIn this talk\, Marios 
 	will walk us through the steps of creating automated unit tests that run e
@@ -148,9 +148,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:zmL7534RGhW8SnPKXgGmO
+UID:fQPccAlb9W0LxuwlvuEyJ
 SUMMARY:CDC Meet & Greet - The Brewery Larnaka
-DTSTAMP:20220920T024000Z
+DTSTAMP:20220921T025300Z
 DTSTART:20220520T153000Z
 DESCRIPTION:Welcome to the CDC - Cyprus Developer Community! Join us for ou
 	r monthly Larnaka meet & greet event. Meet likeminded people\, discuss all
@@ -161,6 +161,27 @@ STATUS:CONFIRMED
 CATEGORIES:Event :sparkles:,Approved :white_check_mark:
 ORGANIZER;CN=Nicholas Verban
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:KIvX5ciXikvxqIeHNLv2j
+SUMMARY:BeerJS Limassol #2
+DTSTAMP:20220921T025300Z
+DTSTART:19220929T165500Z
+DESCRIPTION:BeerJS is back in Limassol! Let's meet and talk stuff and have 
+	fun!\n\n**note on drinking and js**\n\nBeerJS is about creating social spa
+	ces to strengthen software communities. There is no requirement to drink t
+	o participate\, nor talk specifically js (I personally can support convers
+	ation on variety of topics and I would love to listen to people talking ab
+	out it)
+URL:https://github.com/cyprus-developer-community/events/issues/15
+LOCATION:bono
+STATUS:CONFIRMED
+CATEGORIES:Event :sparkles:,Approved :white_check_mark:
+ORGANIZER;CN=Michael サイトー 中村 Bashurov
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/jgebal;CN=Jacek
+	 Gębal
 DURATION:PT2H
 END:VEVENT
 END:VCALENDAR
