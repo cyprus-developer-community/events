@@ -29,5 +29,13 @@
     "city": "Larnaka",
     "link": "https://thebrewerylarnaca.com/",
     "geo": [34.91374521269892, 33.637798401607384]
+  },
+  {
+    "id": "brewfellas",
+    "name": "Brewfellas Bar",
+    "city": "Nicosia",
+    "link": "https://www.brewfellas.com/bar/",
+    "geo": [35.173703, 33.361346],
+    "what3words": "///play.munched.pimples"
   }
 ]
