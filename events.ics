@@ -5,9 +5,9 @@ PRODID:gitevents/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:T5WfH_9UfWTajtDwR7WHp
+UID:MjeYG4qkpp0tePl7lf_1A
 SUMMARY:CDC Paphos Meet & Greet\, 28/04\, 18.30h
-DTSTAMP:20221017T025600Z
+DTSTAMP:20221018T024700Z
 DTSTART:20220428T153000Z
 DESCRIPTION:Every last Thursday of the month\, the CDC Paphos Chapter meets
 	 for drinks and snacks at Baracas Lounge.
@@ -20,9 +20,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:OHDBk3m8Ei1rirHhY6IzN
+UID:ftTnOx6yQKMdPor3itO2L
 SUMMARY:CDC Organizers Meetup
-DTSTAMP:20221017T025600Z
+DTSTAMP:20221018T024700Z
 DTSTART:20220406T173000Z
 DESCRIPTION:Monthly organizers sync
 URL:https://github.com/cyprus-developer-community/events/issues/5
@@ -34,9 +34,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:BNHBMTgFhfydxSo5_3IdQ
+UID:OW-WfnkE3nmcC1EcYP2Bx
 SUMMARY:CDC Limassol Meet&Greet Meetup\, 14/04\, 18.30h
-DTSTAMP:20221017T025600Z
+DTSTAMP:20221018T024700Z
 DTSTART:20220414T153000Z
 DESCRIPTION:Start of Meet\\&Greet in Limassol
 URL:https://github.com/cyprus-developer-community/events/issues/6
@@ -48,9 +48,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:QQ0EZhSKgaaP3WzAE9Q_m
+UID:CMF9a1Ca_IHa3VgzqUAoH
 SUMMARY:CDC Organizers Meetup 04/05\, 20.30h
-DTSTAMP:20221017T025600Z
+DTSTAMP:20221018T024700Z
 DTSTART:20220504T173000Z
 DESCRIPTION:Monthly organizers sync
 URL:https://github.com/cyprus-developer-community/events/issues/7
@@ -64,9 +64,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/PatrickHeneise;
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:7hY4sife1iDnBC4Q_PLXK
+UID:rcpTnQFnAesRUA1YJfgmn
 SUMMARY:CDCoffee April 2022
-DTSTAMP:20221017T025600Z
+DTSTAMP:20221018T024700Z
 DTSTART:20220413T070000Z
 DESCRIPTION:Monthly virtual coffee hour for all Cypriot developers and tech
 	 enthusiasts to meet and chat.
@@ -79,9 +79,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:pBtvmvwHgqfeUz2EJhgjr
+UID:B0NnlOGgR_8SdPqgd1EUs
 SUMMARY:CDC Larnaka Meet & Greet Meetup
-DTSTAMP:20221017T025600Z
+DTSTAMP:20221018T024700Z
 DTSTART:20220415T153000Z
 DESCRIPTION:Welcome to the CDC - Cyprus Developer Community! Join us for ou
 	r monthly Larnaka meet & greet event. Meet likeminded people\, discuss top
@@ -98,9 +98,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:w0gCTgoTV4iMbYpnXn-BA
+UID:julo_QDxt4P_EUUPgUCPU
 SUMMARY:CDC Organizers Meetup 07/06\, 20.30h
-DTSTAMP:20221017T025600Z
+DTSTAMP:20221018T024700Z
 DTSTART:20220607T173000Z
 DESCRIPTION:Monthly organizers sync
 URL:https://github.com/cyprus-developer-community/events/issues/10
@@ -112,10 +112,10 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:SVLgkNTJRQAChKI-h_kP0
+UID:h8CruRJqIbQdRrsHe977H
 SUMMARY:A practical introduction to Test Driven Development (TDD) by Marios
 	 Georgiou
-DTSTAMP:20221017T025600Z
+DTSTAMP:20221018T024700Z
 DTSTART:20220517T160000Z
 DESCRIPTION:GDG is happy to host Marios Georgiou!\n\nIn this talk\, Marios 
 	will walk us through the steps of creating automated unit tests that run e
@@ -148,9 +148,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:E9ATlk_hJSIRIk_1fUBSu
+UID:XcXAW9qnytJtZwhJ4Xr2K
 SUMMARY:CDC Meet & Greet - The Brewery Larnaka
-DTSTAMP:20221017T025600Z
+DTSTAMP:20221018T024700Z
 DTSTART:20220520T153000Z
 DESCRIPTION:Welcome to the CDC - Cyprus Developer Community! Join us for ou
 	r monthly Larnaka meet & greet event. Meet likeminded people\, discuss all
@@ -164,9 +164,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:tSDRDE0QlbmjjYrFD_rJI
+UID:Pcg0tiak5c9SJjSjAzdRk
 SUMMARY:BeerJS Limassol #2
-DTSTAMP:20221017T025600Z
+DTSTAMP:20221018T024700Z
 DTSTART:20220929T153000Z
 DESCRIPTION:BeerJS is back in Limassol! Let's meet and talk stuff and have 
 	fun!\n\n**note on drinking and js**\n\nBeerJS is about creating social spa
@@ -189,9 +189,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/anstarovoyt;CN=
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:iwa8gtlla6I3y298pS0cv
+UID:bLP_iCJdsmnet64h7FRki
 SUMMARY:CDC Meet & Greet - Brewfellas Nicosia
-DTSTAMP:20221017T025600Z
+DTSTAMP:20221018T024700Z
 DTSTART:20221015T130000Z
 DESCRIPTION:Casual meet & greet at Brewfellas in Nicosia
 URL:https://github.com/cyprus-developer-community/events/issues/18
