@@ -37,5 +37,13 @@
     "link": "https://www.brewfellas.com/bar/",
     "geo": [35.173703, 33.361346],
     "what3words": "///play.munched.pimples"
+  },
+  {
+    "id": "the-rooftop-paphos",
+    "name": "The Rooftop",
+    "city": "Paphos",
+    "link": "https://www.google.com/maps/place/Evagoras+Pallikarides+Foundation,+Evagora+Pallikaridi,+Paphos,+Cyprus/@34.779866,32.4254071,17z",
+    "geo": [34.779866, 32.4254071],
+    "what3words": "///affair.blinking.mugs"
   }
 ]
