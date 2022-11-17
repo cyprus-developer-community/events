@@ -45,5 +45,13 @@
     "link": "https://www.google.com/maps/place/Evagoras+Pallikarides+Foundation,+Evagora+Pallikaridi,+Paphos,+Cyprus/@34.779866,32.4254071,17z",
     "geo": [34.779866, 32.4254071],
     "what3words": "///affair.blinking.mugs"
+  },
+  {
+    "id": "sash-shisha",
+    "name": "Sash Shisha",
+    "city": "Limassol",
+    "link": "https://maps.app.goo.gl/Qmixsg7SPBTNCARLA",
+    "geo": [34.7099907, 33.1275147],
+    "what3words": "///reframed.dispenses.entrusted"
   }
 ]
