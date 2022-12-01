@@ -61,5 +61,13 @@
     "link": "https://maps.app.goo.gl/Qmixsg7SPBTNCARLA",
     "geo": [34.7099907, 33.1275147],
     "what3words": "///reframed.dispenses.entrusted"
+  },
+  {
+    "id": "br-hub-nicosia",
+    "name": "B.R. Hub",
+    "city": "Nicosia",
+    "link": "https://brhub.com.cy/",
+    "geo": [35.141055, 33.344739],
+    "what3words": "///skater.tequila.random"
   }
 ]
