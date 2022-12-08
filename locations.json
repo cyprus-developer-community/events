@@ -69,5 +69,13 @@
     "link": "https://brhub.com.cy/",
     "geo": [35.141055, 33.344739],
     "what3words": "///skater.tequila.random"
+  },
+  {
+    "id": "wrike",
+    "name": "Wrike",
+    "city": "Nicosia",
+    "link": "https://www.wrike.com/techclub/",
+    "geo": [35.160374,33.374852],
+    "what3words": "///entertainer.taster.quibble"
   }
 ]
