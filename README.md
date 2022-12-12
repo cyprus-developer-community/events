@@ -1,13 +1,23 @@
 # Cyprus Developer Community Events
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cyprus-developer-community/.github/main/img/cdc-logo.png" width="150" height="150" alt="Cyprus Developer Community" />
+</p>
+
 [Join us on Discord](https://chat.cdc.cy) or participate in our
 [discussions on GitHub](https://github.com/cyprus-developer-community/home/discussions).
 
 ## Introduction
 
-Work in progress. Stay tuned.
+This repository serves as a central place for all events of the Cyprus Developer
+Community.
 
-## Subscribe
+- [List of all events](https://github.com/cyprus-developer-community/events/issues?q=is%3Aissue+is%3Aopen+label%3A%22Approved+%3Awhite_check_mark%3A%22)
+- [Create an Event](https://github.com/cyprus-developer-community/events/issues/new/choose)
+- [Subscribe to our Event Calendar](https://calendar.cdc.cy)
+- [CDC Homepage](https://cdc.cy)
+
+### Subscribe
 
 ![apple calendar](https://github.com/gitevents/ics/blob/main/assets/apple-calendar.png)
 ![google calendar](https://github.com/gitevents/ics/blob/main/assets/google-calendar.png)
