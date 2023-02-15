@@ -55,6 +55,14 @@
     "what3words": "///affair.blinking.mugs"
   },
   {
+    "id": "oneills-paphos",
+    "name": "O'Neills Pub",
+    "city": "Paphos",
+    "link": "https://www.oneillspaphos.com/",
+    "geo": [34.772258, 32.410115],
+    "what3words": "///greeting.freed.tracking"
+  },
+  {
     "id": "sash-shisha",
     "name": "Sash Shisha",
     "city": "Limassol",
@@ -75,7 +83,7 @@
     "name": "Wrike",
     "city": "Nicosia",
     "link": "https://www.wrike.com/techclub/",
-    "geo": [35.160374,33.374852],
+    "geo": [35.160374, 33.374852],
     "what3words": "///entertainer.taster.quibble"
   }
 ]

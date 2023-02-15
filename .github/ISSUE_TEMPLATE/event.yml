@@ -19,7 +19,7 @@ body:
     attributes:
       label: Location
       description: Location ID (locations.json) or String
-      placeholder: 'hugge-paphos'
+      placeholder: 'the-rooftop-paphos'
     validations:
       required: true
   - type: input
@@ -27,7 +27,7 @@ body:
     attributes:
       label: Date
       description: Start Date
-      placeholder: '31.03.2022'
+      placeholder: '31.03.2023'
     validations:
       required: true
   - type: input
