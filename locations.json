@@ -85,5 +85,13 @@
     "link": "https://www.wrike.com/techclub/",
     "geo": [35.160374, 33.374852],
     "what3words": "///entertainer.taster.quibble"
-  }
+  },
+  {
+    "id": "diamante-blu",
+    "name": "Diamante Blu",
+    "city": "Limassol",
+    "link": "https://goo.gl/maps/bPgqj1DiuoS6sznH6",
+    "geo": [34.6701968, 33.0395872],
+    "what3words": "///science.miracle.officers"
+  },
 ]
