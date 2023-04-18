@@ -8,13 +8,13 @@ jobs:
   prepare-microblog:
     uses: ./.github/workflows/prepare-microblog.yml
 
-  # discord:
-  #   if:
-  #     contains (github.event.issue.labels.*.name, 'Approved :white_check_mark:')
-  #   uses: gitevents/broadcast/.github/workflows/discord-event.yml@main
-  #   with:
-  #     server-id: '855088264180400198'
-  #     time-zone: 'Europe/Nicosia'
+  discord:
+    if:
+      contains (github.event.issue.labels.*.name, 'Approved :white_check_mark:')
+    uses: gitevents/broadcast/.github/workflows/discord-event.yml@main
+    with:
+      server-id: '855088264180400198'
+      time-zone: 'Europe/Nicosia'
 
   bluesky-post:
     if:
