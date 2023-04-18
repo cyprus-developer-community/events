@@ -22,7 +22,7 @@ jobs:
     needs: [prepare-microblog]
     uses: gitevents/broadcast/.github/workflows/bluesky-event.yml@main
     with:
-      status: ${{ needs.prepare-microblog.outputs.post }}
+      post: ${{ needs.prepare-microblog.outputs.post }}
     secrets:
       BSKY_IDENTIFIER: ${{ secrets.BSKY_IDENTIFIER }}
       BSKY_PASSWORD: ${{ secrets.BSKY_PASSWORD }}
