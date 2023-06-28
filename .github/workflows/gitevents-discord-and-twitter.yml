@@ -9,6 +9,8 @@ jobs:
     uses: ./.github/workflows/prepare-microblog.yml
 
   discord:
+    permissions:
+      id-token: write
     if:
       contains (github.event.issue.labels.*.name, 'Approved :white_check_mark:')
     uses: gitevents/broadcast/.github/workflows/discord-event.yml@main
