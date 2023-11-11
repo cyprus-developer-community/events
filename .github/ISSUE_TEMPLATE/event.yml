@@ -8,6 +8,13 @@ body:
       value: |
         Hey there :wave:. We're using [GitEvents](http://gitevents.org) to manage events based on issues. There's still some work to be done, so please make sure you stick to the formatting of dates for the time being.
   - type: textarea
+    id: featureImage
+    attributes:
+      label: Featured Image
+      description: A feature image for the event
+    validations:
+      required: false
+  - type: textarea
     id: description
     attributes:
       label: Event Description
