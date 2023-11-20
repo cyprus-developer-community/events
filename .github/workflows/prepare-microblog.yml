@@ -13,7 +13,7 @@ jobs:
       post: ${{ steps.prepare.outputs.result }}
     steps:
       - name: Create Post
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         id: prepare
         with:
           result-encoding: string
