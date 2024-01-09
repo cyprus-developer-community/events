@@ -102,5 +102,13 @@
     "link": "https://www.facebook.com/people/Porto-Antico-Restaurant-Lounge-Bar-Cafe/100031967933803/",
     "geo": [34.859207, 32.356807],
     "what3words": "///roadblocks.marooned.gaskets"
+  },
+  {
+    "id": "new-horizon",
+    "name": "New Horizon",
+    "city": "Paphos",
+    "link": "https://www.facebook.com/thenewhorizonpub/",
+    "geo": [34.8103344, 32.3932511],
+    "what3words": "///spoonfuls.leashes.fierce"
   }
 ]
