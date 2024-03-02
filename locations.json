@@ -22,7 +22,8 @@
     "name": "Bono Bar & Restaurant",
     "city": "Limassol",
     "link": "https://g.page/BonoBarAndRestaurant?share",
-    "geo": [34.6811418, 33.042411]
+    "geo": [34.6811418, 33.042411],
+    "what3words": "///inches.welfare.tracking"
   },
   {
     "id": "brewery",
