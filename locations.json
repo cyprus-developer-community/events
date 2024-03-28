@@ -111,5 +111,13 @@
     "link": "https://www.facebook.com/thenewhorizonpub/",
     "geo": [34.8103344, 32.3932511],
     "what3words": "///spoonfuls.leashes.fierce"
+  },
+  {
+    "id": "picnic-site-peyia",
+    "name": "Picnic site in Peyia",
+    "city": "Paphos",
+    "link": "https://maps.app.goo.gl/WSyZBkdzR8fNGnUf9",
+    "geo": [34.8955822, 32.329819],
+    "what3words": "///bedbugs.volume.feasting"
   }
 ]
