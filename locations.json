@@ -119,5 +119,13 @@
     "link": "https://maps.app.goo.gl/WSyZBkdzR8fNGnUf9",
     "geo": [34.8955822, 32.329819],
     "what3words": "///bedbugs.volume.feasting"
+  },
+  {
+    "id": "limassol-agora",
+    "name": "Limassol AGORA",
+    "city": "Limassol",
+    "link": "https://maps.app.goo.gl/HifmxDK7k57Cqbo58",
+    "geo": [34.6759891, 33.0431495],
+    "what3words": "///clown.turkeys.acid"
   }
 ]
