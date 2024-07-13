@@ -127,5 +127,13 @@
     "link": "https://maps.app.goo.gl/HifmxDK7k57Cqbo58",
     "geo": [34.6759891, 33.0431495],
     "what3words": "///clown.turkeys.acid"
+  },
+  {
+    "id": "brainrocket",
+    "name": "Brainrocket",
+    "city": "Limassol",
+    "link": "https://maps.app.goo.gl/h6e3Xk7LZf65j2yZ7",
+    "geo": [34.6977719, 33.0457438],
+    "what3words": "///hugs.skewed.since"
   }
 ]
