@@ -135,5 +135,13 @@
     "link": "https://maps.app.goo.gl/h6e3Xk7LZf65j2yZ7",
     "geo": [34.6977719, 33.0457438],
     "what3words": "///hugs.skewed.since"
+  },
+  {
+    "id": "agios-georgios-harbour-fish-restaurant",
+    "name": "Agios Georgios Harbour Fish Restaurant",
+    "city": "Paphos",
+    "link": "https://maps.app.goo.gl/SXXuz8nv4THNdyjP7",
+    "geo": [34.9033266, 32.3188246],
+    "what3words": "///competing.envision.react"
   }
 ]
