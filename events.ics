@@ -5,9 +5,9 @@ PRODID:gitevents/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:DrJYmqrfVKCjEiH4wFY7Z
+UID:nQWJYFufgOcFcxTHlyqXR
 SUMMARY:CDC Paphos Meet & Greet\, 28/04\, 18.30h
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20220428T153000Z
 DESCRIPTION:Every last Thursday of the month\, the CDC Paphos Chapter meets
 	 for drinks and snacks at Baracas Lounge.
@@ -20,9 +20,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:Q9_cs6fZeeTftD5tEWMBK
+UID:d1IS62ectumvLdfiqu7Y9
 SUMMARY:CDC Organizers Meetup
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20220406T173000Z
 DESCRIPTION:Monthly organizers sync
 URL:https://github.com/cyprus-developer-community/events/issues/5
@@ -34,9 +34,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:KextrkWOTNVTPlAHJ3dMe
+UID:C0-m4cy7TnTL2H6mfqvNv
 SUMMARY:CDC Limassol Meet&Greet Meetup\, 14/04\, 18.30h
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20220414T153000Z
 DESCRIPTION:Start of Meet\\&Greet in Limassol
 URL:https://github.com/cyprus-developer-community/events/issues/6
@@ -48,9 +48,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZUPV3JkXVe8IXreBDrtBz
+UID:V4KPnRWaQkH5rnS2YoZsy
 SUMMARY:CDC Organizers Meetup 04/05\, 20.30h
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20220504T173000Z
 DESCRIPTION:Monthly organizers sync
 URL:https://github.com/cyprus-developer-community/events/issues/7
@@ -64,9 +64,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/PatrickHeneise;
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:1cVXd39Qx0GzFfFXzA3S2
+UID:kpRfTwDm4ANNT6BCo0r9x
 SUMMARY:CDCoffee April 2022
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20220413T070000Z
 DESCRIPTION:Monthly virtual coffee hour for all Cypriot developers and tech
 	 enthusiasts to meet and chat.
@@ -79,9 +79,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:2ukahVBiN56YNHB0BVgRK
+UID:-E1Ib_C4YGELMWs0ja0uJ
 SUMMARY:CDC Larnaka Meet & Greet Meetup
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20220415T153000Z
 DESCRIPTION:Welcome to the CDC - Cyprus Developer Community! Join us for ou
 	r monthly Larnaka meet & greet event. Meet likeminded people\, discuss top
@@ -98,9 +98,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:PkK3CdO7s0BLKUT_9FpDf
+UID:q5cBH6W8jw-3AxEbiYfRI
 SUMMARY:CDC Organizers Meetup 07/06\, 20.30h
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20220607T173000Z
 DESCRIPTION:Monthly organizers sync
 URL:https://github.com/cyprus-developer-community/events/issues/10
@@ -112,10 +112,10 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:uwG6X2j9d6uq8vvmtsSGz
+UID:vZny7lwKXt-LS4Sa68t9u
 SUMMARY:A practical introduction to Test Driven Development (TDD) by Marios
 	 Georgiou
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20220517T160000Z
 DESCRIPTION:GDG is happy to host Marios Georgiou!\n\nIn this talk\, Marios 
 	will walk us through the steps of creating automated unit tests that run e
@@ -148,9 +148,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:cOcVjmw1CQOYw1E-aLLQC
+UID:auw24BjRE2lRZnZNTtMnb
 SUMMARY:CDC Meet & Greet - The Brewery Larnaka
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20220520T153000Z
 DESCRIPTION:Welcome to the CDC - Cyprus Developer Community! Join us for ou
 	r monthly Larnaka meet & greet event. Meet likeminded people\, discuss all
@@ -164,9 +164,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:jPkOvLM1AqUGfImVajCGL
+UID:OT7tZtRTcCAD--nTMi1Pc
 SUMMARY:BeerJS Limassol #2
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20220929T153000Z
 DESCRIPTION:BeerJS is back in Limassol! Let's meet and talk stuff and have 
 	fun!\n\n**note on drinking and js**\n\nBeerJS is about creating social spa
@@ -189,9 +189,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/anstarovoyt;CN=
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:buvixH_8qB_aWQBkAvKWt
+UID:Yj5wfuyMLsOsFSy9F62L4
 SUMMARY:CDC Meet & Greet - Brewfellas Nicosia
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20221015T130000Z
 DESCRIPTION:Casual meet & greet at Brewfellas in Nicosia
 URL:https://github.com/cyprus-developer-community/events/issues/18
@@ -209,9 +209,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/MarioSimou;CN=m
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:0NElr7AjwqXNMjYnu8kKY
+UID:3cL09aboe1heSZTpZNyGx
 SUMMARY:CDC Paphos Meet & Greet
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20221111T140000Z
 DESCRIPTION:Drinks / Dinner || Snacks
 URL:https://github.com/cyprus-developer-community/events/issues/19
@@ -229,9 +229,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/framp;CN=Federi
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:t4w-AW9fGI4ScONoUkicG
+UID:c2L8C8zrsirbs4PGSPaoP
 SUMMARY:BeerJS Limassol #3
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20221027T153000Z
 DESCRIPTION:BeerJS in Limassol! Let's meet and talk stuff and have fun!\n\n
 	**note on drinking and js**\n\nBeerJS is about creating social spaces to s
@@ -249,9 +249,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/saitonakamura;C
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:vtCiEf5RjnXCKIhYcHhv5
+UID:aBnltX0Xrkh1seH2_6juR
 SUMMARY:CDC Paphos Meet & Greet
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20221216T140000Z
 DESCRIPTION:![Mulled-wine-in-white-rustic-mugs](https://user-images.githubu
 	sercontent.com/74390/202103125-a5316145-c182-40cc-bcca-cbe079453a64.jpeg)\
@@ -268,9 +268,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:zXWxVO3qo-oqNcxXd__jT
+UID:XoRTmjrYPE6Mgf2xcwQjh
 SUMMARY:Live Watching of HolyJS Talks
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20221120T140000Z
 DESCRIPTION:Live watching of HolyJS Talks and networking with developers fr
 	om inDrive\, Mayflower and other companies!\n\nRegistration required <http
@@ -284,9 +284,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:Mh9XxL-iO3kUgZ7ywLOK5
+UID:DXanQXloA4Bf4TJsxBIVw
 SUMMARY:BeerJS Limassol #4
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20221124T170000Z
 DESCRIPTION:BeerJS in Limassol! Let's meet and talk stuff and have fun!\n\n
 	**note on drinking and js**\n\nBeerJS is about creating social spaces to s
@@ -302,9 +302,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:9IJueANNpzlsG-6jClgDY
+UID:IlTpqRecLlQDnf2WebrCf
 SUMMARY:CDCx Paphos
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230120T153000Z
 DESCRIPTION:![Ancient-Odeon-amphitheatre-in-Paphos-Archaeological-Park\,-Cy
 	prus](https://user-images.githubusercontent.com/74390/210996690-976dd4b6-3
@@ -330,9 +330,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/bsekachev;CN=Bo
 DURATION:PT2H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:QvbroioAPS86Y4BXf8fc6
+UID:bAL5up6cWwmDDItL0fE4X
 SUMMARY:CDC Nicosia / CyprusJS Meet & Greet
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20221207T160000Z
 DESCRIPTION:Let's get together at "B.R. Hub" and talk about the latest news
 	 and events in technology\, software and programming. Table is reserved fo
@@ -346,9 +346,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:HcQuYjhbwZoKIIyTSn_yZ
+UID:RpL00hWAuv3BtF79uJIQs
 SUMMARY:CocoaHeads Cyprus iOS Talks
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20221215T160000Z
 DESCRIPTION:We are happy to announce the first meetup of CocoaHeads Cyprus!
 	 Let's gather and get to know each other.\n\nAgenda\n18:00 - 18:30 - Gathe
@@ -368,9 +368,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:5cTJVGmIZC2ZPPoxR3rNV
+UID:Wux5KCYkQMgac22cXB0_N
 SUMMARY:Wrike Product Management Meetup 
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20221215T163000Z
 DESCRIPTION:We continue growing [Wrike TechClub](https://www.wrike.com/tech
 	club/) CY  community and happy to announce the event on Product Developmen
@@ -396,9 +396,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:NSS-PQw44gTTVhqFIz5Du
+UID:UYxuAft8imVbFzcWMR-oh
 SUMMARY:Cyprus Kotlin User Group meetup
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20221220T160000Z
 DESCRIPTION:KUG Cyprus is for everyone who is interested in Kotlin. Doesn't
 	 matter whether you're a beginner or an expert\, more into Android or Back
@@ -423,9 +423,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:GUHVVkFmzkneBPMxsck2Z
+UID:ZtXCqObYKfdjyhhTabgiW
 SUMMARY:CDC Meet & Greet Limassol
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230126T170000Z
 DESCRIPTION:Informal meet & greet to talk about the latest in software and 
 	web development\, technology and science.
@@ -438,9 +438,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:xbCu0pfBpHLyXdPnLNfuT
+UID:qJjwdIuymf1jNcNgeHQi9
 SUMMARY:CocoaHeads Lite Paphos
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230202T170000Z
 DESCRIPTION:This is an informal networking event without talks & presentati
 	ons\, where we can just meet and discuss iOS-related topics informally\, s
@@ -455,9 +455,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:QPcu19CSvZNrnrZMREVmz
+UID:Jz6A6TgG7MM_4mHnXN2mr
 SUMMARY:CDC Meet & Greet Ammochostos
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230225T170000Z
 DESCRIPTION:![patrickheneise_a_developer_meetup_in_Famagusta_8k_watercolor_
 	st_67327723-9d62-4f20-b22d-7f87909c4165](https://user-images.githubusercon
@@ -475,9 +475,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/MarioSimou;CN=m
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:cu_lCLom8X3wSIqNYBObV
+UID:b2SmZSBDWY4ScI1Jof3Yr
 SUMMARY:CDC Paphos Meet & Greet
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230216T170000Z
 DESCRIPTION:![patrickheneise_three_young_software_engineers_in_a_pub_drinki
 	ng_658796ae-12f9-4766-a3e1-614ba29cb6e5](https://user-images.githubusercon
@@ -492,9 +492,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:488vi9A9PqNxCkmEm-Hlu
+UID:bgDPVlwykjO34kUbW55gW
 SUMMARY:Cyprus Kotlin User Group
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230302T170000Z
 DESCRIPTION:KUG Cyprus is for everyone who is interested in Kotlin. Doesn't
 	 matter whether you're a beginner or an expert\, more into Android or Back
@@ -518,9 +518,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:RfWjAukeKndti-HiBiJAG
+UID:bMqNc9zznwTc0zqUFyoMj
 SUMMARY:CDC Meet & Greet Limassol
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230223T170000Z
 DESCRIPTION:Informal meet & greet to talk about the latest in software and 
 	web development\, technology and science.
@@ -533,9 +533,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:fuc02dZsr7r2prvEChYys
+UID:9AfgXC1-dVUIxJfPIGLZO
 SUMMARY:CyprusJS Meetup #1 2023
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230302T163000Z
 DESCRIPTION:CyprusJS is back with a long-awaited meetup! On the 2nd of Marc
 	h at [Diamante Blu](https://www.google.com/maps/place/Diamante+blu/@34.670
@@ -557,9 +557,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:bqIU5AdYhUWXbH517C-kc
+UID:UnaASUV_Wj5jLS9KTqGNc
 SUMMARY:Software Engineering Talks
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230425T160000Z
 DESCRIPTION:More info in:\n\n<https://www.meetup.com/software-development-t
 	alks/events/291208012/>\n\nFree food and drinks\n\nVenue:\nTBC
@@ -572,9 +572,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:IMJcslUaqisRBU4uTu1QN
+UID:_y0tGZwURN8QVsDTcxZrV
 SUMMARY:CDC Paphos Meet & Greet
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230323T170000Z
 DESCRIPTION:![patrickheneise_a_software_developer_meetup_at_the_medierranea
 	n__0841f0b7-5310-4ab9-8997-bae248a2b207](https://user-images.githubusercon
@@ -593,9 +593,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/alexandra-mara;
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:mA-Chasn3ReU_CiK6DOpl
+UID:VtArU4WuqwzlwVti2q710
 SUMMARY:CocoaHeads 06.04
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230406T153000Z
 DESCRIPTION:We are happy to announce the first meetup of CocoaHeads Cyprus!
 	 Let's gather and have some fun. Talks would be in English. \\[Reserve a s
@@ -610,9 +610,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:rqXepFBW8lO9CkiqI8NJf
+UID:zE-N92utjArIOZddPY_sh
 SUMMARY:CDC Paphos Meet & Greet
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230427T160000Z
 DESCRIPTION:![patrickheneise_a_software_developer_meetup_at_the_medierranea
 	n__0841f0b7-5310-4ab9-8997-bae248a2b207](https://user-images.githubusercon
@@ -630,9 +630,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/ReDetection;CN=
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:u4RfVeyy1an-Jg3iFJy_s
+UID:I6tke6lOXZR1sQHTFSOzw
 SUMMARY:CDC Meet & Greet Ammochostos
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230427T160000Z
 DESCRIPTION:![patrickheneise_a_developer_meetup_in_Famagusta_8k_watercolor_
 	st_67327723-9d62-4f20-b22d-7f87909c4165](https://user-images.githubusercon
@@ -648,9 +648,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:kpmk2gDH1Q5vxLlEJ41gp
+UID:9HJy892htNIdGyrRKKXBG
 SUMMARY:Google I/O Extended 2023 Watch Party - Nicosia\, Cyprus
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230510T160000Z
 DESCRIPTION:I/O connects developers from around the world for thoughtful di
 	scussions\, hands-on learning with Google experts\, and a first look at Go
@@ -672,9 +672,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:oRzJ9feZjUsL2PVfXeAxJ
+UID:NXjtm1FgyiBclccp__d8p
 SUMMARY:Engineering leadership meetup #2: Case Study
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230518T153000Z
 DESCRIPTION:Venue: Wrike Office in Nicosia\n\nEntrance: Free\n\nDrinks and 
 	Food: Free\n\nLanguage: English\n\nRegistration: <https://www.eventbrite.c
@@ -717,9 +717,9 @@ ORGANIZER;CN=Wrike TechClub
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-UID:5AiSoHGFv9_780tFPSOAh
+UID:CqfSYt0UqeD1drgWl5CK8
 SUMMARY:CocoaHeads Cyprus: WWDC Keynote Watch Party
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230605T150000Z
 DESCRIPTION:Join us in Limassol for an event where we'll be watching the WW
 	DC keynote from Apple on a big screen. This is a great opportunity to witn
@@ -736,9 +736,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:1JFukd9m8BmchLLecs32X
+UID:rPUs1TdK1ZfeWmFm_Zgl5
 SUMMARY:Cyprus Kotlin User Group Meetup 13.06
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230613T153000Z
 DESCRIPTION:KUG Cyprus is for everyone who is interested in Kotlin. Doesn't
 	 matter whether you're a beginner or an expert\, more into Android or Back
@@ -764,9 +764,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:NwIqh32iZdrtRqKSq3C2F
+UID:-CovMkEvdkogc9YLcpEL-
 SUMMARY:CDC Meet & Greet Limassol May
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230525T160000Z
 DESCRIPTION:Informal meet & greet to talk about the latest in software and 
 	web development\, technology and science.
@@ -779,9 +779,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:SMJ2OElWrlWN0ksr6hRb5
+UID:OyQgIqD1HPK6lB-wqBRsD
 SUMMARY:CDC Meet & Greet Limassol June
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230629T160000Z
 DESCRIPTION:Informal meet & greet to talk about the latest in software and 
 	web development\, technology and science.
@@ -794,9 +794,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:2PDCbP3UiSUqHakAegPTP
+UID:2a3CSbL_AkuQboFgMYeJj
 SUMMARY:Lightning talks by first time speakers - Nicosia
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230713T170000Z
 DESCRIPTION:Hello everyone! 🙌\n\nWe're thrilled to announce our upcoming s
 	oftware development meetup event\, specifically tailored for first-time sp
@@ -810,9 +810,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:zuWk4HYFfWSDeMDpcJMQL
+UID:p8j8Ltr5Pz6KR4oNYOBQ_
 SUMMARY:CDC Paphos Meet & Greet
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230727T160000Z
 DESCRIPTION:![image](https://github.com/cyprus-developer-community/events/a
 	ssets/611109/6f756ac4-1194-4702-afdc-aa0701fd8fe2)\n\ninformal get togethe
@@ -829,9 +829,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/ReDetection;CN=
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:ZSEzzZyk0V8VyKYzxxV1l
+UID:kzvivEPbwi4mJP7QOqZOg
 SUMMARY:CDC Larnaka Meet & Greet
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230804T160000Z
 DESCRIPTION:Welcome to the Cyprus Developer Community! Join us for our Larn
 	aka meet & greet. Meet likeminded people\, discuss topics we would like to
@@ -847,9 +847,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:ZdXK4ZNuPwbOpKrME8-i1
+UID:_Mef3I4_7XzPVTtdEfxhg
 SUMMARY:CDC Meet & Greet Limassol July 
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230727T160000Z
 DESCRIPTION:Informal meet & greet to talk about the latest in software and 
 	web development\, technology and science. Registration <https://www.eventb
@@ -863,9 +863,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:GWH8spEOYQVA08rAFdp5d
+UID:ulmta2As0hAkS7ywkznUA
 SUMMARY:CDC Paphos Meet & Greet August 2023
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230824T160000Z
 DESCRIPTION:![изображение](https://github.com/cyprus-developer-community/ev
 	ents/assets/5837296/528716ea-a59a-41dc-a30f-77f642c25a3f)![image](https://
@@ -884,9 +884,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:B6QZFC7k7PhlVKyuOO8G7
+UID:lS1sjoarXyQ01GCEgJzJQ
 SUMMARY:Google Cloud Next Keynote 2023 Watch Party
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230829T153000Z
 DESCRIPTION:Google Cloud Next connects developers from around the world for
 	 thoughtful discussions\, hands-on learning with Google experts\, and a fi
@@ -909,9 +909,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT4H
 END:VEVENT
 BEGIN:VEVENT
-UID:fR-8pMhpSj38ZLQjQCSh9
+UID:nFw25j6PsLc-21K8GydXY
 SUMMARY:CDC Meet & Greet Limassol August
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230831T160000Z
 DESCRIPTION:Informal meet & greet to talk about the latest in software and 
 	web development\, technology and science. Registration <https://www.eventb
@@ -925,9 +925,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:fQ0Teb942Fk6-EaD-1PMI
+UID:yCjzBEKVO6cAlyXI4Be9a
 SUMMARY:CDC Software Freedom Day
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230923T090000Z
 DESCRIPTION:A day to celebrate Open Source and Technology!\n\nSubmitted top
 	ics:\n\nOther links:
@@ -944,9 +944,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/nikolask7;CN=Ni
 DURATION:PT4H
 END:VEVENT
 BEGIN:VEVENT
-UID:5ssKUtrCHEiuhRDwoTF1-
+UID:vTHppvkJYM37xRqgpcjut
 SUMMARY:GDG Tech Talks #1
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20231012T160000Z
 URL:https://github.com/cyprus-developer-community/events/issues/72
 LOCATION:Wrike Cyprus Ltd - 64 Kallipoleos\, Nicosia 1071
@@ -957,9 +957,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:przsZwUsDXEDWUWJBd8Xp
+UID:muGFqL6v6tmhxrRisn1UU
 SUMMARY:CDC Meet & Greet Paphos September 2023
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230928T160000Z
 DESCRIPTION:![изображение](https://github.com/cyprus-developer-community/ev
 	ents/assets/5837296/528716ea-a59a-41dc-a30f-77f642c25a3f)![image](https://
@@ -978,9 +978,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:gIKtlC1qj6GCHLtqdgjF6
+UID:KLIebRhsS5kDT4mhMcb7T
 SUMMARY:CDC Meet & Greet Limassol September
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20230928T160000Z
 DESCRIPTION:Informal meet & greet to talk about the latest in software and 
 	web development\, technology and science. Registration <https://www.eventb
@@ -994,9 +994,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:HDgAdQVBT021aVFuzRu60
+UID:ylWdVNe_LI8NbT69zqeLR
 SUMMARY:CDC Meet & Greet Paphos October 2023
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20231026T160000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1011,9 +1011,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:OmbPVMq30_JXTK8huvjC1
+UID:1CHdz027Kxvi1vMcnxpGR
 SUMMARY:CDC Meet & Greet Limassol October
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20231026T170000Z
 DESCRIPTION:Informal meet & greet to talk about the latest in software and 
 	web development\, technology and science. Registration <https://www.eventb
@@ -1029,9 +1029,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:Cx28_f8JpzacERjVTXXgz
+UID:rtE7bev2ZvUJWQViDR85Y
 SUMMARY:CDC Meet & Greet Limassol November
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20231123T170000Z
 DESCRIPTION:Informal meet & greet to talk about the latest in software and 
 	web development\, technology and science. Registration <https://www.eventb
@@ -1047,9 +1047,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:VxXAPBAAHMSJye_xILlgl
+UID:-_wG5RWyZhXqdX4da1pXM
 SUMMARY:CDC Meet & Greet Paphos November 2023
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20231123T170000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1064,9 +1064,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:iM0aggAJYLOjtpIzFeIuf
+UID:03r40rd2BCXdXhb2RZY2C
 SUMMARY:CDC Meet & Greet Limassol December
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20231221T170000Z
 DESCRIPTION:Informal meet & greet to talk about the latest in software and 
 	web development\, technology and science. Registration <https://www.eventb
@@ -1082,9 +1082,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:9UadjA3lZYqj7zguhD-GS
+UID:nsQxVddLqdWLubpg-hTOt
 SUMMARY:CDC Meet & Greet Paphos January 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240125T170000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1103,9 +1103,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/ReDetection;CN=
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:FuDaiCSF5vxvI7eVGR20K
+UID:mxpIyewOyif1oLo9WB6Fp
 SUMMARY:GDG Cyprus - Tech Talks #2
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240229T170000Z
 DESCRIPTION:**About the event**\nInspired by Google’s Tech Talks initiative
 	\, this event series aims to share information of interest to the technica
@@ -1155,9 +1155,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:4ZoNhS2e-dwgLA9mTpocw
+UID:nLlfc-fgw1TuqYBaryOUN
 SUMMARY:CDC Meet & Greet Limassol January 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240125T170000Z
 DESCRIPTION:Informal meet & greet to talk about the latest in software and 
 	web development\, technology and science. Registration\n<https://www.event
@@ -1173,9 +1173,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:m52UCejdhxy5fp2xY71xU
+UID:Jzy-M0KvNWQFVWzzKiHhR
 SUMMARY:CDC Meet & Greet Paphos February 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240208T170000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1190,9 +1190,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:_3DIrFIqsS0fiHiTE4Q3I
+UID:0bUkV4529hXKGhQ2wZYSl
 SUMMARY:CDC Meet & Greet Limassol February 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240329T170000Z
 DESCRIPTION:Informal meet & greet to talk about the latest in software and 
 	web development\, technology and science.\n\nPlease sign up on [Eventbrite
@@ -1207,9 +1207,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:TIWBjqugkEbsHQ8-97oa5
+UID:BDdI-2-mzK2gtUqG84zpO
 SUMMARY:CDC Meet & Greet Paphos March 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240314T170000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1224,9 +1224,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:6IeZYgpAe6G8HwQI7eUzZ
+UID:asY2XowYlSBjrTXy3eehb
 SUMMARY:CDC Meet & Greet Larnaca April 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240410T160000Z
 DESCRIPTION:Are you passionate about coding\, innovation\, and networking w
 	ith like-minded professionals? Look no further! Join us for an electrifyin
@@ -1251,9 +1251,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:j6vyJClQNzRJHL_1Bzng7
+UID:qIxghFo0EKbxHp8UigLBH
 SUMMARY:CDC Meet & Greet Paphos April 2024 BBQ
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240413T093000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant BBQ\n\nThe event is
@@ -1270,9 +1270,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT4H
 END:VEVENT
 BEGIN:VEVENT
-UID:ByXoONz5GpZw26jiOxLFK
+UID:r_AuYnFQCfvHI6p93ZWjz
 SUMMARY:CDC Meet & Greet Paphos May 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240509T160000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1287,9 +1287,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:_ssabHdi7fJvu1aLp85xw
+UID:UlwksKQq6xIt2B99iyPRo
 SUMMARY:CDC Meet & Greet Paphos June 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240613T160000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1304,9 +1304,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:nFTqUTW4XFy8-HJsHNVgm
+UID:xRnzmFCgIIU75jGOWEWH-
 SUMMARY:Tech Talks #3: Build with AI
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240606T160000Z
 URL:https://github.com/cyprus-developer-community/events/issues/98
 LOCATION:The Base by CyprusInno (Markou Drakou 23\, Nicosia 1102 - Buffer Z
@@ -1322,9 +1322,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/framp;CN=Federi
 DURATION:PT2H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:-21M1rWVFkk0E9p5MPPp9
+UID:gOF_BGsa8ZLewuvDiunkk
 SUMMARY:CDC Meet & Greet Paphos July 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240711T160000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1339,9 +1339,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:A_Pea0RVGZRpNTlHVhO8Y
+UID:xUUeip4mGPgQx2QTwwPnS
 SUMMARY:AI Hack Lab - July 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240717T150000Z
 DESCRIPTION:Registration on [Luma](https://lu.ma/c1fuw0u0)\n\nAIFoundry Eur
 	opean Engineering team is excited about our progress in aiding the assessm
@@ -1365,9 +1365,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT4H
 END:VEVENT
 BEGIN:VEVENT
-UID:2JaEO0jC8Y2s_4yBAl5TJ
+UID:-h_4kMTkEk2JNBOOE4Yq2
 SUMMARY:CDC Meet & Greet Paphos August 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240808T160000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1382,9 +1382,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:Ht5pic7_aq7kdX5D4XD1X
+UID:huqGdvj4Zc6LQuoa7mZgn
 SUMMARY: CDC Meet & Greet Paphos September 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240912T160000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1399,9 +1399,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:EyFoYz-gXYnW5dcCf_bZX
+UID:unuV8_1z4GuwoCmpo3T3Y
 SUMMARY:Tech Talks #4
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20241007T160000Z
 DESCRIPTION:RSVP [here](https://www.meetup.com/gdg-cyprus/events/303132587/
 	)\n\nPale Blue\, QBeat Technologies\, and Deloitte Cyprus are thrilled to 
@@ -1462,9 +1462,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:S9CmTwu5rz7AlyY66WLNd
+UID:i9oC4hB_RVngXv4ctA7TY
 SUMMARY:CDC Meet & Greet Limassol September 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20240926T160000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1479,9 +1479,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:yjdrj3TF_SJEYb9jR37vB
+UID:zQT7UfsU-RHLuOpIZKZl8
 SUMMARY:BeerJS Limassol October
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20241017T160000Z
 DESCRIPTION:BeerJS in Limassol! Let's meet and talk stuff and have fun!\n\n
 	Please sign up [on Eventbrite](https://www.eventbrite.com/e/beerjs-limasso
@@ -1501,9 +1501,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:PnUse367YMUL6rmVibXuF
+UID:bnkvo6SEeiMMIPVZtr_2t
 SUMMARY:CDC Meet & Greet Paphos October 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20241010T160000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1518,9 +1518,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:ZPOKd8raMt6UUX3w1PBu1
+UID:ihr0u1EaCFlq11b60dB6K
 SUMMARY:CDC Meet & Greet Paphos November 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20241114T170000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1535,9 +1535,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:WnUrr-onvlEIr9kDhtOy-
+UID:2MfxC55S3BJ0n09eTgPhT
 SUMMARY:CDC Meet & Greet Paphos December 2024
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20241212T170000Z
 DESCRIPTION:Meet and greet is an informal get together to discuss the lates
 	t in technology and science\, and just have a pleasant evening\n\nPlease s
@@ -1552,9 +1552,9 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 DURATION:PT1H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:WeWs4V0v04gILLr8YHkvP
+UID:3tgd_BnDTDjao1z1eCRCp
 SUMMARY:CDC Meet & Greet Paphos Febuary 2025
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20250206T170000Z
 DESCRIPTION:Meet and greet is an informal get-together to grab a beer\, dis
 	cuss the latest in technology and science\, and just have a pleasant eveni
@@ -1579,9 +1579,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/alexandra-mara;
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:mxO0ImjDRYDPpP6KLhtCI
+UID:D3YRHIAfnIVSTEUDd4HXF
 SUMMARY:CDC Meet & Grill 31st of May\, 2025
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20250531T090000Z
 DESCRIPTION:Let's meet for a picnic at Pikni site in Peyia/Pegeia <https://
 	maps.app.goo.gl/fxbjEuYiNMonr8R87>\n\nDate: Saturday 31st of May\, 2025\nT
@@ -1602,9 +1602,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/ReDetection;CN=
 DURATION:PT6H
 END:VEVENT
 BEGIN:VEVENT
-UID:MwBkcejiYelBgIOWMc074
+UID:T0BafwW2f7KvVSyoelttg
 SUMMARY:CDC Meet & Greet Paphos (Peyia) July 2025
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20250717T160000Z
 DESCRIPTION:Meet and greet is an informal get-together to grab a beer\, dis
 	cuss the latest in technology and science\, and just have a pleasant eveni
@@ -1628,9 +1628,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/valmat;CN=Valer
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:G9txExvTRJx6fy1UY1-Xi
+UID:Fh4GX1PBOEcS45_9eFSHC
 SUMMARY:CDC Meet & Greet Paphos August 2025
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20250821T160000Z
 DESCRIPTION:Meet and greet is an informal get-together to grab a beer\, dis
 	cuss the latest in technology and science\, and just have a pleasant eveni
@@ -1650,9 +1650,9 @@ ATTENDEE;RSVP=TRUE;PARTSTAT=ACCEPTED;DIR=https://github.com/valmat;CN=Valer
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:iukWCkRIUsLDUHNcbbGOU
+UID:slocsVBCQbuntoikb_AMo
 SUMMARY:CDC Meet & Greet Paphos Xmas edition - 19/12/2025 on the roof
-DTSTAMP:20260728T032208Z
+DTSTAMP:20260729T032402Z
 DTSTART:20251219T160000Z
 DESCRIPTION:RSVP on Eventbrite <https://www.eventbrite.com/e/cdc-meet-greet
 	-paphos-tickets-972762778657>\, join the discussion on our Discord <https:
